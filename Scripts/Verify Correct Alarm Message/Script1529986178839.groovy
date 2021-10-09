@@ -42,5 +42,3 @@ Mobile.comment('Then the correct dialog message should be displayed')
 Mobile.verifyEqual(message, 'Example of how you can use a custom Theme.Dialog theme to make an activity that looks like a customized dialog, here with an ugly frame.')
 
 Mobile.closeApplication()
-
-
